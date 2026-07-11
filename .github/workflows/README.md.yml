@@ -29,8 +29,9 @@ jobs:
           $readme = ./README.md.ps1           
           $readme > ./README.md
           $readmeFile = Get-Item ./README.md
+          $readmeFile
           git add $readmeFile.Fullname
-          git commit "Updating README"
+          git commit -m "Updating README"
           git push
           $lastExitCode = 0      
           
