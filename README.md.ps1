@@ -74,13 +74,22 @@ $(
 
 "### All Projects"
 
-"|Project|Description|Stargazers|"
+"|Project|Description|Badges|"
 "|:-|:-:|-:|"
 foreach (
     $project in $script:Cache[$projectsUrl] | 
         Sort-Object stargazers_count -Descending
 ) {
-    "|$("[$($project.name)]($($project.html_url))",
+    $projectBadges = @(
+        if ($project.custom_properties.PowerShellGalleryID) {
+            $galleryId = $project.custom_properties.PowerShellGalleryID
+            "[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/$galleryId)]($(
+                "https://www.powershellgallery.com/packages/$galleryId"
+            ))"
+        }
+    ) -join ' '
+    "|$("[$($project.name)]($($project.html_url))",        
         "[$($project.description -replace '\|', '\|')]($($project.html_url))",
-            "[$($project.stargazers_count)]($($project.html_url)/stargazers)" -join '|')|"
+            "$projectBadges" -join 
+                '|')|"
 }
