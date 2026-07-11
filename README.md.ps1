@@ -16,7 +16,7 @@ param(
 ),
 
 [string]
-$Logo = "PoshWeb-Animated.svg",
+$Logo = "/PoshWeb-Animated.svg",
 
 [string]
 $Intro = "
