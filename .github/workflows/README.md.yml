@@ -1,0 +1,36 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: README.md
+
+on:
+  # Runs on pushes 
+  push:
+  # and run on a schedule
+  schedule: 
+    # for those that don't speak cron, this runs:
+    # * At the first minute (`1`)
+    # * Every 23rd hour (`1/23`)
+    # * Every day of the year (`* * *`)
+    - cron: '1 1/23 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+      - name: "README.md.ps1"
+        # set the shell to pwsh
+        shell: pwsh
+        # and then call any script we would like to build the page.
+        # By default, this can use the same name as the workflow
+        # (in this case, just deploy.ps1)
+        run: . "./$env:GITHUB_WORKFLOW.ps1" > "$env:GITHUB_WORKFLOW"
+      - name: Commit
+        shell: pwsh
+        run: |
+          git add *md
+          git add *.svg
+          git commit "Updating README"
+          git push
+          $lastExitCode = 0
