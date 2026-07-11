@@ -57,7 +57,22 @@ if ($logo) {
 
 $Intro
 
-"### Projects"
+"### Recently Updated"
+
+$(
+    ""
+    $script:Cache[$projectsUrl] | 
+        Sort-Object updated_at -Descending |
+        Select-Object -First 10 | 
+        Get-Random -Count 10 |
+        ForEach-Object {
+            $project =  $_
+            "* [$($project.Name)]($($project.html_url))"
+        }
+    ""
+)
+
+"### All Projects"
 
 "|Project|Description|Stargazers|"
 "|:-|:-:|-:|"
