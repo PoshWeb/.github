@@ -26,11 +26,16 @@ jobs:
         # By default, this can use the same name as the workflow
         # (in this case, just deploy.ps1)
         run: |
-          $readme = ./README.md.ps1           
-          $readme > ./README.md          
+          $readme = ./README.md.ps1
+          $readme > ./README.md
           $readmeFile = Get-Item ./README.md
           $readmeFile | Out-Host
           git add $readmeFile.Fullname
+          $profileFile = New-Item -ItemType File -Path "./profile/README.md" -Force -Value (
+              $readme -join [Environment]::Newline
+          )
+          $profileFile | Out-Host
+          git add $profileFile.Fullname
           git config user.name "StartAutomating"
           git config user.email "1043665+StartAutomating@users.noreply.github.com"
           git commit -m "Updating README"
