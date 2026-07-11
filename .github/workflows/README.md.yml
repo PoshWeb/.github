@@ -25,7 +25,10 @@ jobs:
         # and then call any script we would like to build the page.
         # By default, this can use the same name as the workflow
         # (in this case, just deploy.ps1)
-        run: . ./README.md.ps1 > ./README.md
+        run: |
+          $readme = ./README.md.ps1           
+          $readme > ./README.md
+          Get-Item ./README.md
       - name: Commit
         shell: pwsh
         run: |
