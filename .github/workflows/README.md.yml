@@ -27,11 +27,12 @@ jobs:
         # (in this case, just deploy.ps1)
         run: |
           $readme = ./README.md.ps1           
-          $readme > ./README.md
+          $readme > ./README.md          
           $readmeFile = Get-Item ./README.md
-          $readmeFile
+          $readmeFile | Out-Host
           git add $readmeFile.Fullname
+          git config user.name "StartAutomating"
+          git config user.email "1043665+StartAutomating@users.noreply.github.com"
           git commit -m "Updating README"
           git push
-          $lastExitCode = 0      
-          
+          $lastExitCode = 0          
