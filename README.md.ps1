@@ -30,12 +30,14 @@ if (-not $script:Cache) {$script:Cache = [Ordered]@{}}
 
 $orgInfoUrl = "https://api.github.com/orgs/$Organization"
 if (-not $script:Cache[$orgInfoUrl]) {
-    $script:Cache[$orgInfoUrl] = Invoke-RestMethod -Uri "https://api.github.com/orgs/$Organization"
+    Write-Warning "Getting $orgInfoUrl"
+    $script:Cache[$orgInfoUrl] = Invoke-RestMethod -Uri $orgInfoUrl
 }
 
 $projectsUrl = "https://api.github.com/orgs/$Organization/repos?per_page=100"
 
 if (-not $script:Cache[$projectsUrl]) {
+    Write-Warning "Getting $projectsUrl"
     $script:Cache[$projectsUrl] = Invoke-RestMethod -Uri $projectsUrl |
         Where-Object Name -notmatch '^.github'
 }
