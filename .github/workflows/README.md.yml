@@ -25,11 +25,11 @@ jobs:
         # and then call any script we would like to build the page.
         # By default, this can use the same name as the workflow
         # (in this case, just deploy.ps1)
-        run: . "./$env:GITHUB_WORKFLOW.ps1" > "$env:GITHUB_WORKFLOW"
+        run: . "./$env:GITHUB_WORKFLOW.ps1" > "./$env:GITHUB_WORKFLOW"
       - name: Commit
         shell: pwsh
         run: |
-          git add *md
+          git add *.md
           git add *.svg
           git commit "Updating README"
           git push
