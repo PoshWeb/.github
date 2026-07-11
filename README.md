@@ -1,6 +1,6 @@
 
 <div align='center'>
-<img src='PoshWeb-Animated.svg' style='height:400px' />
+<img src='/PoshWeb-Animated.svg' style='height:400px' />
 </div>
 
 # PoshWeb
