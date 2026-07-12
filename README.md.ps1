@@ -96,6 +96,11 @@ foreach (
             )))]($(
                 $project.html_url
             )/stargazers)"
+        if ($project.custom_properties.DeployBadge) {
+            "[![$($project.custom_properties.DeployBadge)](deploy)]($(
+                $project.custom_properties.DeployBadge -replace '/[^/]+$'
+            ))"
+        }
         if ($project.custom_properties.PowerShellGalleryID) {
             $galleryId = $project.custom_properties.PowerShellGalleryID            
             # "[★ $($project.stargazers_count)]()"
