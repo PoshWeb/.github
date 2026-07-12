@@ -97,7 +97,7 @@ foreach (
                 $project.html_url
             )/stargazers)"
         if ($project.custom_properties.DeployBadge) {
-            "[![$($project.custom_properties.DeployBadge)](deploy)]($(
+            "[![deploy]($($project.custom_properties.DeployBadge))]($(
                 $project.custom_properties.DeployBadge -replace '/[^/]+$'
             ))"
         }
