@@ -22,7 +22,7 @@ $transparentFill = "fill='transparent'"
 $animationLoop = "repeatCount='indefinite'"
     $centered = "cx='50%'", "cy='50%'"
 
-"<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200' width='100%' height='100%'>"
+"<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1024 1024' width='100%' height='100%'>"    
     $psChevron
 
     $sequence = 42, 23, 16, 15, 8, 4
@@ -31,6 +31,7 @@ $animationLoop = "repeatCount='indefinite'"
         $n = $sequence[$index]
         $nextN = $sequence[$index + 1]
         $duration = "dur='$($primes[$primes.Length - 1 - $index])s'"
+        $oppositeDuration = "dur='$($primes[$index]/2)s'"
         if (-not $index) {
             "<circle $centered $transparentFill $stroke r='$n%' />"
         }
@@ -49,20 +50,17 @@ $animationLoop = "repeatCount='indefinite'"
                         
             "<ellipse $centered $transparentFill $stroke rx='$n%' ry='42%' opacity='$opacity'>"
             if ($variant -match 'animate') {
-                
                 "<animate attributeName='rx' $animationLoop $duration $values />"
-                "<animate attributeName='opacity' $animationLoop $duration values='$(
-                    $opacity,($opacity/2),$opacity -join ';'
+                "<animate attributeName='opacity' $animationLoop $oppositeDuration values='$(
+                    $opacity,($opacity/[Math]::E),$opacity -join ';'
                 )' />"
             }
             "</ellipse>"
             "<ellipse $centered $transparentFill $stroke rx='42%' ry='$n%' opacity='$opacity'>"
             if ($variant -match 'animate') {
                 "<animate attributeName='ry' $animationLoop $duration $values />"
-            }
-            if ($variant -match 'animate') {
-                "<animate attributeName='opacity' $animationLoop $duration values='$(
-                    $opacity,($opacity/2),$opacity -join ';'
+                "<animate attributeName='opacity' $animationLoop $oppositeDuration values='$(
+                    $opacity,($opacity/[Math]::E),$opacity -join ';'
                 )' />"
             }
             "</ellipse>"
