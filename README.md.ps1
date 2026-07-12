@@ -89,15 +89,15 @@ foreach (
         Sort-Object stargazers_count -Descending
 ) {
     $projectBadges = @(
-        if ($project.custom_properties.PowerShellGalleryID) {
-            $galleryId = $project.custom_properties.PowerShellGalleryID
-            "[![GitHub Repo stars](https://img.shields.io/github/stars/$(
+        "[![GitHub Repo stars](https://img.shields.io/github/stars/$(
                 $($project.owner.login)
             )/$($(
                 $project.name
             )))]($(
                 $project.html_url
             )/stargazers)"
+        if ($project.custom_properties.PowerShellGalleryID) {
+            $galleryId = $project.custom_properties.PowerShellGalleryID            
             # "[★ $($project.stargazers_count)]()"
             "[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/$galleryId)]($(
                 "https://www.powershellgallery.com/packages/$galleryId"
