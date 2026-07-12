@@ -109,8 +109,8 @@ foreach (
             ))"            
         }
     ) -join ' '
-    "| |<h2>$("[$($project.name)]($($project.html_url))</h2>",        
-        "<h3>[$($project.description -replace '\|', '\|')]($($project.html_url))</h3>",
+    "| |<h3>$("[$($project.name)]($($project.html_url))</h3>",        
+        "<h4>[$($project.description -replace '\|', '\|')]($($project.html_url))</h4>",
             "$projectBadges" -join 
                 '<br/>')| |"
 }
