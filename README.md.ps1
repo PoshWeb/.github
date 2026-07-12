@@ -82,8 +82,8 @@ $(
 
 "### All Projects"
 
-"|Projects|"
-"|:-:|"
+"| |Projects| |"
+"|:-|:-:|-:|"
 foreach (
     $project in $script:Cache[$projectsUrl] | 
         Sort-Object stargazers_count -Descending
@@ -109,8 +109,8 @@ foreach (
             ))"            
         }
     ) -join ' '
-    "|<h2>$("[$($project.name)]($($project.html_url))</h2>",        
+    "| |<h2>$("[$($project.name)]($($project.html_url))</h2>",        
         "<h3>[$($project.description -replace '\|', '\|')]($($project.html_url))</h3>",
             "$projectBadges" -join 
-                '<br/>')|"
+                '<br/>')| |"
 }
