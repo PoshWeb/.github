@@ -57,6 +57,14 @@ if ($logo) {
 
 $Intro
 
+"### Repo of the Build:"
+
+$randomRepo = $script:Cache[$projectsUrl] | Get-Random
+
+"#### [$($randomRepo.Name)]($($randomRepo.html_url))"
+
+"> $($randomRepo.description)"
+
 "### Recently Updated"
 
 $(
@@ -83,9 +91,10 @@ foreach (
     $projectBadges = @(
         if ($project.custom_properties.PowerShellGalleryID) {
             $galleryId = $project.custom_properties.PowerShellGalleryID
+            "[★ $($project.stargazers_count)]($($project.html_url)/stargazers)"
             "[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/$galleryId)]($(
                 "https://www.powershellgallery.com/packages/$galleryId"
-            ))"
+            ))"            
         }
     ) -join ' '
     "|$("[$($project.name)]($($project.html_url))",        
