@@ -88,13 +88,19 @@ foreach (
     $project in $script:Cache[$projectsUrl] | 
         Sort-Object stargazers_count -Descending
 ) {
+    $LinkTo = 
+        if ($project.custom_properties.Website) {
+            $project.custom_properties.Website
+        } else {
+            $project.html_url
+        }
     $projectBadges = @(
         "[![GitHub Repo stars](https://img.shields.io/github/stars/$(
                 $($project.owner.login)
             )/$($(
                 $project.name
             )))]($(
-                $project.html_url
+                $LinkTo
             )/stargazers)"
         if ($project.custom_properties.DeployBadge) {
             "[![deploy]($($project.custom_properties.DeployBadge))]($(
@@ -103,14 +109,13 @@ foreach (
         }
         if ($project.custom_properties.PowerShellGalleryID) {
             $galleryId = $project.custom_properties.PowerShellGalleryID            
-            # "[★ $($project.stargazers_count)]()"
             "[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/$galleryId)]($(
                 "https://www.powershellgallery.com/packages/$galleryId"
             ))"            
         }
     ) -join ' '
-    "| |<h3>$("[$($project.name)]($($project.html_url))</h3>",        
-        "<h4>[$($project.description -replace '\|', '\|')]($($project.html_url))</h4>",
-            "$projectBadges" -join 
+    "| |<h3>$("[$($project.name)]($($LinkTo))</h3>",
+        "<h4>[$($project.description -replace '\|', '\|')]($($LinkTo))</h4>",
+            "$projectBadges" -join
                 ' ')| |"
 }
