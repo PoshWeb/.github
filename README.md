@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [PrimeTime](https://github.com/PoshWeb/PrimeTime)
-> The Power of Primes
+#### [PowerShell.tiPS](https://github.com/PoshWeb/PowerShell.tiPS)
+> PowerShell tips delivered straight to your terminal 💻
 ### Recently Updated
 
-* [GitPub](https://github.com/PoshWeb/GitPub)
 * [Lerp](https://github.com/PoshWeb/Lerp)
-* [Turtle](https://github.com/PoshWeb/Turtle)
 * [WebSocket](https://github.com/PoshWeb/WebSocket)
-* [MarkX](https://github.com/PoshWeb/MarkX)
-* [Fun](https://github.com/PoshWeb/Fun)
-* [PoshaKucha](https://github.com/PoshWeb/PoshaKucha)
 * [.github](https://github.com/PoshWeb/.github)
+* [Fun](https://github.com/PoshWeb/Fun)
+* [Turtle](https://github.com/PoshWeb/Turtle)
 * [PoshWeb](https://github.com/PoshWeb/PoshWeb)
 * [PrimeTime](https://github.com/PoshWeb/PrimeTime)
+* [MarkX](https://github.com/PoshWeb/MarkX)
+* [GitPub](https://github.com/PoshWeb/GitPub)
+* [PoshaKucha](https://github.com/PoshWeb/PoshaKucha)
 
 ### All Projects
 | |Projects| |
