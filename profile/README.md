@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [PowerShell.tiPS](https://github.com/PoshWeb/PowerShell.tiPS)
-> PowerShell tips delivered straight to your terminal 💻
+#### [Fun](https://github.com/PoshWeb/Fun)
+> A Fun PowerShell Server
 ### Recently Updated
 
-* [Lerp](https://github.com/PoshWeb/Lerp)
 * [WebSocket](https://github.com/PoshWeb/WebSocket)
-* [.github](https://github.com/PoshWeb/.github)
 * [Fun](https://github.com/PoshWeb/Fun)
 * [Turtle](https://github.com/PoshWeb/Turtle)
 * [PoshWeb](https://github.com/PoshWeb/PoshWeb)
-* [PrimeTime](https://github.com/PoshWeb/PrimeTime)
-* [MarkX](https://github.com/PoshWeb/MarkX)
-* [GitPub](https://github.com/PoshWeb/GitPub)
+* [.github](https://github.com/PoshWeb/.github)
 * [PoshaKucha](https://github.com/PoshWeb/PoshaKucha)
+* [GitPub](https://github.com/PoshWeb/GitPub)
+* [MarkX](https://github.com/PoshWeb/MarkX)
+* [PrimeTime](https://github.com/PoshWeb/PrimeTime)
+* [Lerp](https://github.com/PoshWeb/Lerp)
 
 ### All Projects
 | |Projects| |
