@@ -11,19 +11,19 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [OP](https://github.com/PoshWeb/OP)
-> Overpowered module for Open Packages
+#### [Vector](https://github.com/PoshWeb/Vector)
+> Vectors in PowerShell
 ### Recently Updated
 
 * [Lerp](https://github.com/PoshWeb/Lerp)
-* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
-* [Shape](https://github.com/PoshWeb/Shape)
 * [WebSocket](https://github.com/PoshWeb/WebSocket)
 * [Zippy](https://github.com/PoshWeb/Zippy)
-* [Matrix](https://github.com/PoshWeb/Matrix)
-* [OP](https://github.com/PoshWeb/OP)
+* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
 * [Fun](https://github.com/PoshWeb/Fun)
+* [OP](https://github.com/PoshWeb/OP)
+* [Matrix](https://github.com/PoshWeb/Matrix)
 * [.github](https://github.com/PoshWeb/.github)
+* [Shape](https://github.com/PoshWeb/Shape)
 * [Vector](https://github.com/PoshWeb/Vector)
 
 ### All Projects
