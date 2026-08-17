@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [Vector](https://github.com/PoshWeb/Vector)
-> Vectors in PowerShell
+#### [GQL](https://github.com/PoshWeb/GQL)
+> Get GraphQL in PowerShell
 ### Recently Updated
 
-* [Lerp](https://github.com/PoshWeb/Lerp)
 * [WebSocket](https://github.com/PoshWeb/WebSocket)
-* [Zippy](https://github.com/PoshWeb/Zippy)
 * [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
-* [Fun](https://github.com/PoshWeb/Fun)
-* [OP](https://github.com/PoshWeb/OP)
-* [Matrix](https://github.com/PoshWeb/Matrix)
 * [.github](https://github.com/PoshWeb/.github)
-* [Shape](https://github.com/PoshWeb/Shape)
+* [Zippy](https://github.com/PoshWeb/Zippy)
 * [Vector](https://github.com/PoshWeb/Vector)
+* [Fun](https://github.com/PoshWeb/Fun)
+* [Matrix](https://github.com/PoshWeb/Matrix)
+* [Lerp](https://github.com/PoshWeb/Lerp)
+* [OP](https://github.com/PoshWeb/OP)
+* [Shape](https://github.com/PoshWeb/Shape)
 
 ### All Projects
 | |Projects| |
