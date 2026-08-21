@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [Matrix](https://github.com/PoshWeb/Matrix)
-> Matrix Transforms with PowerShell
+#### [PowerShell.tiPS](https://github.com/PoshWeb/PowerShell.tiPS)
+> PowerShell tips delivered straight to your terminal 💻
 ### Recently Updated
 
+* [Vector](https://github.com/PoshWeb/Vector)
+* [WebSocket](https://github.com/PoshWeb/WebSocket)
+* [.github](https://github.com/PoshWeb/.github)
 * [OP](https://github.com/PoshWeb/OP)
 * [Zippy](https://github.com/PoshWeb/Zippy)
-* [WebSocket](https://github.com/PoshWeb/WebSocket)
-* [Fun](https://github.com/PoshWeb/Fun)
-* [Lerp](https://github.com/PoshWeb/Lerp)
-* [Shape](https://github.com/PoshWeb/Shape)
-* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
 * [Matrix](https://github.com/PoshWeb/Matrix)
-* [Vector](https://github.com/PoshWeb/Vector)
-* [.github](https://github.com/PoshWeb/.github)
+* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
+* [Fun](https://github.com/PoshWeb/Fun)
+* [Shape](https://github.com/PoshWeb/Shape)
+* [Lerp](https://github.com/PoshWeb/Lerp)
 
 ### All Projects
 | |Projects| |
