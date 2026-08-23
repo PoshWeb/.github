@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [OpenGraph](https://github.com/PoshWeb/OpenGraph)
-> Get OpenGraph with PowerShell
+#### [GQL](https://github.com/PoshWeb/GQL)
+> Get GraphQL in PowerShell
 ### Recently Updated
 
 * [Lerp](https://github.com/PoshWeb/Lerp)
-* [Fun](https://github.com/PoshWeb/Fun)
-* [.github](https://github.com/PoshWeb/.github)
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [Shape](https://github.com/PoshWeb/Shape)
-* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
-* [Matrix](https://github.com/PoshWeb/Matrix)
 * [WebSocket](https://github.com/PoshWeb/WebSocket)
-* [OP](https://github.com/PoshWeb/OP)
 * [Vector](https://github.com/PoshWeb/Vector)
+* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
+* [Zippy](https://github.com/PoshWeb/Zippy)
+* [.github](https://github.com/PoshWeb/.github)
+* [Matrix](https://github.com/PoshWeb/Matrix)
+* [OP](https://github.com/PoshWeb/OP)
+* [Fun](https://github.com/PoshWeb/Fun)
+* [Shape](https://github.com/PoshWeb/Shape)
 
 ### All Projects
 | |Projects| |
