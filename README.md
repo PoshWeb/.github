@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [OP](https://github.com/PoshWeb/OP)
-> Overpowered module for Open Packages
+#### [PSJekyll](https://github.com/PoshWeb/PSJekyll)
+> PowerShell Tools for Jekyll
 ### Recently Updated
 
-* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
-* [Vector](https://github.com/PoshWeb/Vector)
 * [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
-* [Lerp](https://github.com/PoshWeb/Lerp)
 * [Zippy](https://github.com/PoshWeb/Zippy)
+* [Lerp](https://github.com/PoshWeb/Lerp)
+* [Vector](https://github.com/PoshWeb/Vector)
 * [OP](https://github.com/PoshWeb/OP)
-* [WebSocket](https://github.com/PoshWeb/WebSocket)
 * [Matrix](https://github.com/PoshWeb/Matrix)
-* [.github](https://github.com/PoshWeb/.github)
+* [WebSocket](https://github.com/PoshWeb/WebSocket)
 * [Fun](https://github.com/PoshWeb/Fun)
+* [.github](https://github.com/PoshWeb/.github)
+* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
 
 ### All Projects
 | |Projects| |
