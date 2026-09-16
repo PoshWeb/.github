@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [Matrix](https://github.com/PoshWeb/Matrix)
-> Matrix Transforms with PowerShell
+#### [Zippy](https://github.com/PoshWeb/Zippy)
+> Easy Compression in PowerShell
 ### Recently Updated
 
-* [Vector](https://github.com/PoshWeb/Vector)
-* [.github](https://github.com/PoshWeb/.github)
 * [Turtle](https://github.com/PoshWeb/Turtle)
 * [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
-* [OP](https://github.com/PoshWeb/OP)
-* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [Matrix](https://github.com/PoshWeb/Matrix)
 * [Fun](https://github.com/PoshWeb/Fun)
+* [Zippy](https://github.com/PoshWeb/Zippy)
+* [.github](https://github.com/PoshWeb/.github)
 * [Wave](https://github.com/PoshWeb/Wave)
+* [Matrix](https://github.com/PoshWeb/Matrix)
+* [Vector](https://github.com/PoshWeb/Vector)
+* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
+* [OP](https://github.com/PoshWeb/OP)
 
 ### All Projects
 | |Projects| |
