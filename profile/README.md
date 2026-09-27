@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [WebSocket](https://github.com/PoshWeb/WebSocket)
-> Work with WebSockets in PowerShell
+#### [GitPub](https://github.com/PoshWeb/GitPub)
+> Easily Automate Publishing from GitHub
 ### Recently Updated
 
+* [Vector](https://github.com/PoshWeb/Vector)
 * [Fun](https://github.com/PoshWeb/Fun)
+* [Matrix](https://github.com/PoshWeb/Matrix)
+* [Zippy](https://github.com/PoshWeb/Zippy)
+* [Wave](https://github.com/PoshWeb/Wave)
+* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
+* [Turtle](https://github.com/PoshWeb/Turtle)
+* [OP](https://github.com/PoshWeb/OP)
 * [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
 * [.github](https://github.com/PoshWeb/.github)
-* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
-* [Wave](https://github.com/PoshWeb/Wave)
-* [OP](https://github.com/PoshWeb/OP)
-* [Matrix](https://github.com/PoshWeb/Matrix)
-* [Turtle](https://github.com/PoshWeb/Turtle)
-* [Vector](https://github.com/PoshWeb/Vector)
-* [Zippy](https://github.com/PoshWeb/Zippy)
 
 ### All Projects
 | |Projects| |
