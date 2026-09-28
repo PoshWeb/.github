@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [GitPub](https://github.com/PoshWeb/GitPub)
-> Easily Automate Publishing from GitHub
+#### [PSJekyll](https://github.com/PoshWeb/PSJekyll)
+> PowerShell Tools for Jekyll
 ### Recently Updated
 
-* [Vector](https://github.com/PoshWeb/Vector)
-* [Fun](https://github.com/PoshWeb/Fun)
-* [Matrix](https://github.com/PoshWeb/Matrix)
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [Wave](https://github.com/PoshWeb/Wave)
-* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
-* [Turtle](https://github.com/PoshWeb/Turtle)
-* [OP](https://github.com/PoshWeb/OP)
 * [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
+* [OP](https://github.com/PoshWeb/OP)
+* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
+* [Wave](https://github.com/PoshWeb/Wave)
+* [Matrix](https://github.com/PoshWeb/Matrix)
+* [Vector](https://github.com/PoshWeb/Vector)
+* [Zippy](https://github.com/PoshWeb/Zippy)
 * [.github](https://github.com/PoshWeb/.github)
+* [Turtle](https://github.com/PoshWeb/Turtle)
+* [Fun](https://github.com/PoshWeb/Fun)
 
 ### All Projects
 | |Projects| |
