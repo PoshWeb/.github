@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [Shape](https://github.com/PoshWeb/Shape)
-> CSS Shapes with PowerShell
+#### [PowerShell.tiPS](https://github.com/PoshWeb/PowerShell.tiPS)
+> PowerShell tips delivered straight to your terminal 💻
 ### Recently Updated
 
-* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
-* [Vector](https://github.com/PoshWeb/Vector)
-* [OP](https://github.com/PoshWeb/OP)
 * [Matrix](https://github.com/PoshWeb/Matrix)
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
+* [OP](https://github.com/PoshWeb/OP)
 * [Wave](https://github.com/PoshWeb/Wave)
-* [Turtle](https://github.com/PoshWeb/Turtle)
-* [Fun](https://github.com/PoshWeb/Fun)
 * [.github](https://github.com/PoshWeb/.github)
+* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
+* [Turtle](https://github.com/PoshWeb/Turtle)
+* [Vector](https://github.com/PoshWeb/Vector)
+* [Zippy](https://github.com/PoshWeb/Zippy)
+* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
+* [Fun](https://github.com/PoshWeb/Fun)
 
 ### All Projects
 | |Projects| |
