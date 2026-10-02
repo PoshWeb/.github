@@ -11,19 +11,19 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [OP](https://github.com/PoshWeb/OP)
-> Overpowered module for Open Packages
+#### [PoshaKucha](https://github.com/PoshWeb/PoshaKucha)
+> PechaKucha Presentations with PowerShell
 ### Recently Updated
 
+* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
+* [Zippy](https://github.com/PoshWeb/Zippy)
+* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
+* [Wave](https://github.com/PoshWeb/Wave)
 * [Vector](https://github.com/PoshWeb/Vector)
 * [OP](https://github.com/PoshWeb/OP)
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [Matrix](https://github.com/PoshWeb/Matrix)
-* [Wave](https://github.com/PoshWeb/Wave)
-* [PocketMarkdown](https://github.com/PoshWeb/PocketMarkdown)
 * [Turtle](https://github.com/PoshWeb/Turtle)
+* [Matrix](https://github.com/PoshWeb/Matrix)
 * [Fun](https://github.com/PoshWeb/Fun)
-* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
 * [.github](https://github.com/PoshWeb/.github)
 
 ### All Projects
