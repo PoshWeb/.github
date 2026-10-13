@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [Zippy](https://github.com/PoshWeb/Zippy)
-> Easy Compression in PowerShell
+#### [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
+> 
 ### Recently Updated
 
-* [Wave](https://github.com/PoshWeb/Wave)
-* [.github](https://github.com/PoshWeb/.github)
-* [Fun](https://github.com/PoshWeb/Fun)
-* [GitPub](https://github.com/PoshWeb/GitPub)
-* [Turtle](https://github.com/PoshWeb/Turtle)
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [OP](https://github.com/PoshWeb/OP)
-* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
 * [Vector](https://github.com/PoshWeb/Vector)
+* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
 * [Matrix](https://github.com/PoshWeb/Matrix)
+* [Turtle](https://github.com/PoshWeb/Turtle)
+* [.github](https://github.com/PoshWeb/.github)
+* [OP](https://github.com/PoshWeb/OP)
+* [GitPub](https://github.com/PoshWeb/GitPub)
+* [Zippy](https://github.com/PoshWeb/Zippy)
+* [Fun](https://github.com/PoshWeb/Fun)
+* [Wave](https://github.com/PoshWeb/Wave)
 
 ### All Projects
 | |Projects| |
