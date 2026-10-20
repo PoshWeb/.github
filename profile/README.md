@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [WebSocket](https://github.com/PoshWeb/WebSocket)
-> Work with WebSockets in PowerShell
+#### [Wave](https://github.com/PoshWeb/Wave)
+> Work with Wave Files in PowerShell
 ### Recently Updated
 
-* [Matrix](https://github.com/PoshWeb/Matrix)
-* [Fun](https://github.com/PoshWeb/Fun)
 * [.github](https://github.com/PoshWeb/.github)
-* [Turtle](https://github.com/PoshWeb/Turtle)
-* [MarkX](https://github.com/PoshWeb/MarkX)
-* [GitPub](https://github.com/PoshWeb/GitPub)
-* [Wave](https://github.com/PoshWeb/Wave)
-* [Vector](https://github.com/PoshWeb/Vector)
+* [Matrix](https://github.com/PoshWeb/Matrix)
 * [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
+* [MarkX](https://github.com/PoshWeb/MarkX)
+* [Fun](https://github.com/PoshWeb/Fun)
+* [Turtle](https://github.com/PoshWeb/Turtle)
+* [Vector](https://github.com/PoshWeb/Vector)
 * [Zippy](https://github.com/PoshWeb/Zippy)
+* [Wave](https://github.com/PoshWeb/Wave)
+* [GitPub](https://github.com/PoshWeb/GitPub)
 
 ### All Projects
 | |Projects| |
