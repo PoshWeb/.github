@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [Matrix](https://github.com/PoshWeb/Matrix)
-> Matrix Transforms with PowerShell
+#### [Fun](https://github.com/PoshWeb/Fun)
+> A Fun PowerShell Server
 ### Recently Updated
 
+* [Matrix](https://github.com/PoshWeb/Matrix)
+* [.github](https://github.com/PoshWeb/.github)
 * [Fun](https://github.com/PoshWeb/Fun)
+* [Turtle](https://github.com/PoshWeb/Turtle)
+* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
+* [Vector](https://github.com/PoshWeb/Vector)
+* [GitPub](https://github.com/PoshWeb/GitPub)
 * [Zippy](https://github.com/PoshWeb/Zippy)
 * [Wave](https://github.com/PoshWeb/Wave)
-* [Vector](https://github.com/PoshWeb/Vector)
-* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
 * [MarkX](https://github.com/PoshWeb/MarkX)
-* [GitPub](https://github.com/PoshWeb/GitPub)
-* [Turtle](https://github.com/PoshWeb/Turtle)
-* [.github](https://github.com/PoshWeb/.github)
-* [Matrix](https://github.com/PoshWeb/Matrix)
 
 ### All Projects
 | |Projects| |
