@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [OpenGraph](https://github.com/PoshWeb/OpenGraph)
-> Get OpenGraph with PowerShell
+#### [GitPub](https://github.com/PoshWeb/GitPub)
+> Easily Automate Publishing from GitHub
 ### Recently Updated
 
-* [.github](https://github.com/PoshWeb/.github)
-* [Vector](https://github.com/PoshWeb/Vector)
-* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
-* [Wave](https://github.com/PoshWeb/Wave)
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [MarkX](https://github.com/PoshWeb/MarkX)
-* [GitPub](https://github.com/PoshWeb/GitPub)
 * [Fun](https://github.com/PoshWeb/Fun)
-* [Turtle](https://github.com/PoshWeb/Turtle)
+* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
+* [Vector](https://github.com/PoshWeb/Vector)
+* [Zippy](https://github.com/PoshWeb/Zippy)
+* [Wave](https://github.com/PoshWeb/Wave)
+* [GitPub](https://github.com/PoshWeb/GitPub)
+* [MarkX](https://github.com/PoshWeb/MarkX)
 * [Matrix](https://github.com/PoshWeb/Matrix)
+* [.github](https://github.com/PoshWeb/.github)
+* [Turtle](https://github.com/PoshWeb/Turtle)
 
 ### All Projects
 | |Projects| |
