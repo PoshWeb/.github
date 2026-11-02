@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [Gradient](https://github.com/PoshWeb/Gradient)
-> Gradient Generation with PowerShell
+#### [GQL](https://github.com/PoshWeb/GQL)
+> Get GraphQL in PowerShell
 ### Recently Updated
 
 * [MarkX](https://github.com/PoshWeb/MarkX)
-* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
-* [.github](https://github.com/PoshWeb/.github)
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [Turtle](https://github.com/PoshWeb/Turtle)
 * [Vector](https://github.com/PoshWeb/Vector)
-* [Wave](https://github.com/PoshWeb/Wave)
-* [Matrix](https://github.com/PoshWeb/Matrix)
-* [Fun](https://github.com/PoshWeb/Fun)
+* [.github](https://github.com/PoshWeb/.github)
 * [GitPub](https://github.com/PoshWeb/GitPub)
+* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
+* [Fun](https://github.com/PoshWeb/Fun)
+* [Turtle](https://github.com/PoshWeb/Turtle)
+* [Zippy](https://github.com/PoshWeb/Zippy)
+* [Matrix](https://github.com/PoshWeb/Matrix)
+* [Wave](https://github.com/PoshWeb/Wave)
 
 ### All Projects
 | |Projects| |
