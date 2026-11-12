@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [Glyph](https://github.com/PoshWeb/Glyph)
-> Manage and Manipulate fonts with PowerShell
+#### [Wave](https://github.com/PoshWeb/Wave)
+> Work with Wave Files in PowerShell
 ### Recently Updated
 
+* [Fun](https://github.com/PoshWeb/Fun)
+* [Wave](https://github.com/PoshWeb/Wave)
+* [Matrix](https://github.com/PoshWeb/Matrix)
+* [GitPub](https://github.com/PoshWeb/GitPub)
+* [Zippy](https://github.com/PoshWeb/Zippy)
+* [Turtle](https://github.com/PoshWeb/Turtle)
+* [MarkX](https://github.com/PoshWeb/MarkX)
+* [Vector](https://github.com/PoshWeb/Vector)
 * [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
 * [.github](https://github.com/PoshWeb/.github)
-* [Vector](https://github.com/PoshWeb/Vector)
-* [MarkX](https://github.com/PoshWeb/MarkX)
-* [GitPub](https://github.com/PoshWeb/GitPub)
-* [Fun](https://github.com/PoshWeb/Fun)
-* [Matrix](https://github.com/PoshWeb/Matrix)
-* [Wave](https://github.com/PoshWeb/Wave)
-* [Turtle](https://github.com/PoshWeb/Turtle)
-* [Zippy](https://github.com/PoshWeb/Zippy)
 
 ### All Projects
 | |Projects| |
