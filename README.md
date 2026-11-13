@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [Wave](https://github.com/PoshWeb/Wave)
-> Work with Wave Files in PowerShell
+#### [OpenXML](https://github.com/PoshWeb/OpenXML)
+> Automate OpenXML with PowerShell
 ### Recently Updated
 
 * [Fun](https://github.com/PoshWeb/Fun)
-* [Wave](https://github.com/PoshWeb/Wave)
+* [MarkX](https://github.com/PoshWeb/MarkX)
 * [Matrix](https://github.com/PoshWeb/Matrix)
-* [GitPub](https://github.com/PoshWeb/GitPub)
+* [.github](https://github.com/PoshWeb/.github)
+* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
+* [Wave](https://github.com/PoshWeb/Wave)
 * [Zippy](https://github.com/PoshWeb/Zippy)
 * [Turtle](https://github.com/PoshWeb/Turtle)
-* [MarkX](https://github.com/PoshWeb/MarkX)
+* [GitPub](https://github.com/PoshWeb/GitPub)
 * [Vector](https://github.com/PoshWeb/Vector)
-* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
-* [.github](https://github.com/PoshWeb/.github)
 
 ### All Projects
 | |Projects| |
