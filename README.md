@@ -11,19 +11,19 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [OpenXML](https://github.com/PoshWeb/OpenXML)
-> Automate OpenXML with PowerShell
+#### [PowerShell.tiPS](https://github.com/PoshWeb/PowerShell.tiPS)
+> PowerShell tips delivered straight to your terminal 💻
 ### Recently Updated
 
 * [Fun](https://github.com/PoshWeb/Fun)
+* [Zippy](https://github.com/PoshWeb/Zippy)
 * [MarkX](https://github.com/PoshWeb/MarkX)
+* [GitPub](https://github.com/PoshWeb/GitPub)
+* [Turtle](https://github.com/PoshWeb/Turtle)
+* [Wave](https://github.com/PoshWeb/Wave)
 * [Matrix](https://github.com/PoshWeb/Matrix)
 * [.github](https://github.com/PoshWeb/.github)
 * [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
-* [Wave](https://github.com/PoshWeb/Wave)
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [Turtle](https://github.com/PoshWeb/Turtle)
-* [GitPub](https://github.com/PoshWeb/GitPub)
 * [Vector](https://github.com/PoshWeb/Vector)
 
 ### All Projects
