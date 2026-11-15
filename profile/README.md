@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [PowerShell.tiPS](https://github.com/PoshWeb/PowerShell.tiPS)
-> PowerShell tips delivered straight to your terminal 💻
+#### [Glyph](https://github.com/PoshWeb/Glyph)
+> Manage and Manipulate fonts with PowerShell
 ### Recently Updated
 
-* [Fun](https://github.com/PoshWeb/Fun)
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [MarkX](https://github.com/PoshWeb/MarkX)
-* [GitPub](https://github.com/PoshWeb/GitPub)
-* [Turtle](https://github.com/PoshWeb/Turtle)
-* [Wave](https://github.com/PoshWeb/Wave)
+* [Vector](https://github.com/PoshWeb/Vector)
 * [Matrix](https://github.com/PoshWeb/Matrix)
 * [.github](https://github.com/PoshWeb/.github)
+* [MarkX](https://github.com/PoshWeb/MarkX)
+* [Turtle](https://github.com/PoshWeb/Turtle)
+* [Zippy](https://github.com/PoshWeb/Zippy)
+* [Fun](https://github.com/PoshWeb/Fun)
+* [Wave](https://github.com/PoshWeb/Wave)
 * [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
-* [Vector](https://github.com/PoshWeb/Vector)
+* [GitPub](https://github.com/PoshWeb/GitPub)
 
 ### All Projects
 | |Projects| |
