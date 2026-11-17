@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [WebSocket](https://github.com/PoshWeb/WebSocket)
-> Work with WebSockets in PowerShell
+#### [Reptile](https://github.com/PoshWeb/Reptile)
+> Read Evaluate Print Terminal Input Loop Editor - A Scaley Simple PowerShell Data REPL.
 ### Recently Updated
 
-* [.github](https://github.com/PoshWeb/.github)
-* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [Turtle](https://github.com/PoshWeb/Turtle)
-* [Fun](https://github.com/PoshWeb/Fun)
-* [Wave](https://github.com/PoshWeb/Wave)
 * [GitPub](https://github.com/PoshWeb/GitPub)
-* [MarkX](https://github.com/PoshWeb/MarkX)
+* [Wave](https://github.com/PoshWeb/Wave)
+* [.github](https://github.com/PoshWeb/.github)
+* [Zippy](https://github.com/PoshWeb/Zippy)
 * [Vector](https://github.com/PoshWeb/Vector)
+* [Fun](https://github.com/PoshWeb/Fun)
+* [MarkX](https://github.com/PoshWeb/MarkX)
 * [Matrix](https://github.com/PoshWeb/Matrix)
+* [Turtle](https://github.com/PoshWeb/Turtle)
+* [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
 
 ### All Projects
 | |Projects| |
