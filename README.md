@@ -11,20 +11,20 @@ We make a few cool projects
 
 
 ### Repo of the Build:
-#### [Wave](https://github.com/PoshWeb/Wave)
-> Work with Wave Files in PowerShell
+#### [GitPub](https://github.com/PoshWeb/GitPub)
+> Easily Automate Publishing from GitHub
 ### Recently Updated
 
-* [Zippy](https://github.com/PoshWeb/Zippy)
-* [Fun](https://github.com/PoshWeb/Fun)
-* [Vector](https://github.com/PoshWeb/Vector)
 * [Matrix](https://github.com/PoshWeb/Matrix)
-* [MarkX](https://github.com/PoshWeb/MarkX)
+* [Vector](https://github.com/PoshWeb/Vector)
 * [Wave](https://github.com/PoshWeb/Wave)
-* [.github](https://github.com/PoshWeb/.github)
+* [Fun](https://github.com/PoshWeb/Fun)
 * [PowerShellOrgWebsite](https://github.com/PoshWeb/PowerShellOrgWebsite)
-* [GitPub](https://github.com/PoshWeb/GitPub)
+* [Zippy](https://github.com/PoshWeb/Zippy)
 * [Turtle](https://github.com/PoshWeb/Turtle)
+* [.github](https://github.com/PoshWeb/.github)
+* [MarkX](https://github.com/PoshWeb/MarkX)
+* [GitPub](https://github.com/PoshWeb/GitPub)
 
 ### All Projects
 | |Projects| |
